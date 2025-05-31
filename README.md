@@ -18,5 +18,5 @@ This mockup reflects principles of AR UI design, such as minimal clutter, clear 
 
 
 Output : 
-
+            ![Image](https://github.com/user-attachments/assets/7acb7aa3-33c2-4596-a61e-c42237717255)
            
